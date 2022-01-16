@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://perfectoimages.github.io/street-workout/sitemapx.xml
